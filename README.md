@@ -164,7 +164,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Mfc2005a&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-d
+
 <img 
       align="left" 
       alt="GitHub Stats" 

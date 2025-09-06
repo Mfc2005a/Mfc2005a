@@ -155,6 +155,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
           <br/></body>
 
 ### 📊 Statistic
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical&date_format=j%20M%5B%20Y%5D)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
 
 <p>
   <img 

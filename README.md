@@ -5,7 +5,7 @@
 I seek to apply my knowledge to optimize processes and
 increase the efficiency of administrative and operational routines.
 I have experience with industrial areas and their respective
-processes.
+processes...
 
 ### 🤖 Languages ​​and tools
 
